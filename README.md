@@ -19,7 +19,7 @@ flask run
 
 ## Meta
 
-Mayank Singh – [@code-monk08](https://twitter.com/codemonk08_) – mayank.singh081997@gmail.com
+Mayank Singh – [Linkedin](https://www.linkedin.com/in/code-monk08/) – mayank.singh081997@gmail.com
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
