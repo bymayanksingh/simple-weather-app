@@ -23,5 +23,7 @@ Mayank Singh – [Linkedin](https://www.linkedin.com/in/code-monk08/) – mayank
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
 [![License][license-image]][license-url]
+
 [license-image]:https://img.shields.io/badge/license-MIT-blue.svg
+
 [license-url]:https://raw.githubusercontent.com/clamytoe/pyTrack/master/LICENSE
