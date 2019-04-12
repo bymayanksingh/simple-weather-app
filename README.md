@@ -15,7 +15,7 @@ export FLASK_ENV=development
 flask run
 ```
 ![Screen](Screens/Screen1.png)
-![Screen](Screens/Screen1.png)
+![Screen](Screens/Screen2.png)
 
 ## Meta
 
