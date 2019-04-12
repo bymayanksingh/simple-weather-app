@@ -2,7 +2,6 @@
 
 > Implemented in Flask, Python3, It is a basic application which supports searching for cities worldwide and adding them as css cards showing their temperature and other details, It also supports deleting the cards.
 
-[![License][license-image]][license-url]
 
 I used weather data from Open Weather Map API
 
@@ -23,5 +22,6 @@ Mayank Singh – [Linkedin](https://www.linkedin.com/in/code-monk08/) – mayank
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
+[![License][license-image]][license-url]
 [license-image]:https://img.shields.io/badge/license-MIT-blue.svg
 [license-url]:https://raw.githubusercontent.com/clamytoe/pyTrack/master/LICENSE
