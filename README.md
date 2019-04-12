@@ -1,6 +1,6 @@
 # Simple Weather App
 
-> Implemented in Flask,Python3
+> Implemented in Flask, Python3, It is a basic application which supports searching for cities worldwide and adding them as css cards showing their temperature and other details, It also supports deleting the cards.
 
 [![License][license-image]][license-url]
 
