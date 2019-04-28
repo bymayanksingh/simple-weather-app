@@ -11,7 +11,7 @@ This application is really simple to use. Like any Flask **app**, you must start
 
 ```bash
 export FLASK_ENV=development
-flask run
+python3 app.py
 ```
 ![Screen](Screens/Screen1.png)
 ![Screen](Screens/Screen2.png)
