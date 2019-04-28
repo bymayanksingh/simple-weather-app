@@ -13,8 +13,8 @@ This application is really simple to use. Like any Flask **app**, you must start
 export FLASK_ENV=development
 python3 app.py
 ```
-![Screen](Screens/Screen1.png)
 ![Screen](Screens/Screen2.png)
+![Screen](Screens/Screen1.png)
 
 ## Meta
 
