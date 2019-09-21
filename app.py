@@ -1,6 +1,8 @@
 # run export FLASK_ENV=development before running flask run
-import datetime, requests
-from flask import Flask, render_template, request, redirect
+import datetime
+
+import requests
+from flask import Flask, redirect, render_template, request
 from flask_sqlalchemy import SQLAlchemy
 
 key = open("apikey.txt", "r").readline()
